@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="COLDLONGFUR">
+        <item> Det er kaldt </item>
+
+        <item>
+
+            Hunden din er mer utsatt for snø/isklumper og floker i pelsen hvis det er mye snø ute,
+            på grunn av dens lange pels.\n
+
+
+            ### Veterinærer anbefaler\n
+            Unngå at hunden vasser mye i snø - vurder dekken/snødrakt hvis dette
+            er vanskelig og hunden din får plager.\n
+            Dersom hunden er ute over lengre tid, burde den ha et skjermet område uten trekk fra snø eller regn.\n
+            Nå kan det være behov for å bruke potesokker, pungvarmer og/eller dekken.\n
+            Begrens lengden på turene.\n
+
+
+            ### Tegn å se etter\n
+            - Skjelving\n
+            - Løfting av potene eller halting\n
+            - Om hunden går sakte eller stopper å gå\n
+
+            ### Konsekvenser\n
+            Spesielt potene og testiklene er utsatte for frostskader, uavhengig av hundetype.\n
+
+        </item>
+
+        <item>
+            Hunden din er mer utsatt for snø/isklumper og floker i pelsen\n
+            hvis det er mye snø ute.\n
+            Nå burde hunden din ha på klær og/eller potesokker.\n
+            Ved disse temperaturene risikerer hunden å få frostskader.\n
+        </item>
+    </string-array>
+</resources>

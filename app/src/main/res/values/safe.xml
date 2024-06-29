@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SAFE">
+        <item>Trygt</item>
+
+        <item>
+            Vi har ingen spesielle anbefalninger
+            til de nåværende værforholdene.
+        </item>
+
+        <item>
+            Vi har ingen spesielle anbefalninger
+            til de nåværende værforholdene.
+        </item>
+    </string-array>
+</resources>

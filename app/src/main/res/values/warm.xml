@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="WARM">
+        <item> Det er varmt ute </item>
+
+        <item>
+            ### Veterinærer anbefaler\n
+            - Sørg for at hunden alltid har tilgang til skygge og friskt vann.\n
+            - Pass på at hunden ikke inntar store mengder vann ved bading.\n
+            - Kjenn på asfalten med hendene, dersom du selv synes det er ubehagelig er det for varmt for hundens poter.\n
+            - Unngå eller begrens turer på asfalterte veier.\n
+            - Vurder om hunden burde gjøre intens fysisk aktivitet.\n
+
+            ### Tegn å se etter:\n
+            - om hunden peser eller puster tungt og høylytt\n
+            - rastløshet eller irritabilitet\n
+            - økt puls\n
+            - oppkast og diarè\n
+
+            ### Konsekvenser\n
+            Hvis vannet hunden bader i har cyanobakterier (også kalt blågrønnalger), kan hunden din
+            bli forgiftet hvis den drikker vannet. Vann som er stillestående har større risiko for
+            å ha slike bakterier. Det er en god ide å følge med på hvilke vann i området som er
+            testet for dette og vurdert som trygge av kommunen før du lar hunden bade.
+            Hvis hunden din drikker nok vann er det mindre sannsynlig at den drikker badevannet.
+            Hvis hunden ikke har nok skygge og friskt vann kan den i verste fall få heteslag.
+
+        </item>
+
+        <item>
+            Dersom det er sol kan det bli ganske varmt for hunden.\n
+            \n
+            Veterinærer anbefaler:\n
+            - Skygge og friskt vann\n
+            - Unngå inntak av vann ved bading\n
+            - Kjenn på asfalten før du går tur\n
+            - Vurder å begrense intens fysisk aktivitet
+
+        </item>
+    </string-array>
+</resources>

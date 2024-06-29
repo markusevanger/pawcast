@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="VERYWARM">
+        <item> Det er  veldig varmt </item>
+
+        <item>
+            ### Veterinærer anbefaler\n
+            - Prøv å begrense tur/aktivitet til tidlig morgen eller sen kveld.\n
+            - Hunden må alltid ha tilgang til skygge og friskt vann.\n
+            - Kjenn på asfalten med hendene, dersom du selv synes det er ubehagelig er det for varmt for hundens poter.\n
+            - Unngå eller begrens turer på asfalterte veier.\n
+            - Pass på at hunden ikke inntar store mengder vann ved bading.\n
+
+            ### Tegn å se etter:\n
+            - Om hunden peser eller puster tungt og høylytt\n
+            - Rastløshet eller irritabilitet\n
+            - Økt puls\n
+            - Oppkast og diarè\n
+
+            ### Konsekvenser\n
+            Hvis vannet hunden bader i har cyanobakterier (også kalt blågrønnalger), kan hunden din
+            bli forgiftet hvis den drikker vannet. Vann som er stillestående har større risiko for
+            å ha slike bakterier. Det er en god ide å følge med på hvilke vann i området som er
+            testet for dette og vurdert som trygge av kommunen før du lar hunden bade.
+            Hvis hundnen din drikker nok vann er det mindre sannsynlig at den drikker badevannet.
+            Hvis hunden ikke har nok skygge og friskt vann kan den i verste fall få heteslag.
+
+
+        </item>
+
+        <item>
+            Prøv å begrense tur/aktivitet til tidlig morgen eller sen kveld.
+            Hunden må alltid ha tilgang til skygge og friskt vann.
+        </item>
+    </string-array>
+</resources>

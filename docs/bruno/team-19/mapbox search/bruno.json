@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "mapbox search",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

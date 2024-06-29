@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="COLDOTHER">
+        <item> Det er kaldt </item>
+
+        <item>
+            ### Veterinærer anbefaler
+            Dersom hunden er ute over lengre tid, burde den ha et skjermet område uten trekk fra snø eller regn.\n
+            Nå kan det være behov for å bruke potesokker, pungvarmer og/eller dekken.\n
+            Begrens lengden på turene.\n
+
+
+            ### Tegn å se etter\n
+            - Skjelving\n
+            - Løfting av potene eller halting\n
+            - Om hunden går sakte eller stopper å gå\n
+
+            ### Konsekvenser\n
+            Spesielt potene og testiklene er utsatte for frostskader, uavhengig av hundetype.
+            HUnden din kan slite med å regulere temperaturen sin, og hvis den sliter
+            med leddgikt eller er gammel er den mer utsatt for å skli og falle.
+
+        </item>
+
+        <item>
+            Hunden din er innenfor en kategori som gjør den mer utsatt for kulde.\n
+            Derfor burde du følge ekstra med.\n
+
+            Nå burde hunden din ha på klær og/eller potesokker.\n
+            Ved disse temperaturene risikerer hunden å få frostskader.\n
+        </item>
+    </string-array>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="FREEZING">
+        <item> Sprengkulde </item>
+
+        <item>
+            ### Veterinærer anbefaler\n
+            - Bruk potesokker og dekken.\n
+            - Gå korte turer.\n
+            - Gjør andre aktiviteter for mental stimulering inne.\n
+
+            ### Alternative aktiviteter\n
+            - Leke gjemsel inne\n
+            - Lær hunden din nye triks\n
+            - Bytt ut hvilke leker som står fremme\n
+            - Bruk interaktive leker som får hunden til å tenke\n
+
+            ### Konsekvenser\n
+            Spesielt potene og testiklene er utsatte for alvorlige frostskader, uavhengig av hundetype.\n
+
+        </item>
+
+        <item>
+            Bruk potesokker og dekken, spesielt ved turer lengre enn 10 minutter.
+            Prøv å begrense lengden på turene.
+        </item>
+    </string-array>
+</resources>

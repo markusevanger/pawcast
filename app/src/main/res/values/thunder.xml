@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="THUNDER">
+        <item> Torden </item>
+
+        <item>
+            ### Veterinærer anbefaler\n
+            - Hold hunden inne eller i bånd.\n
+            - Sørg for at hunden har mikrochip tilfelle den skulle bli redd og rømme.
+
+        </item>
+
+        <item>
+            Hold hunden inne eller i bånd.\n
+            Sørg for at hunden har mikrochip tilfelle den skulle bli redd og rømme.
+        </item>
+    </string-array>
+</resources>

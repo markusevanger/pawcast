@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="WARMFLAT">
+        <item> Det er varmt ute </item>
+
+        <item>
+            ### Veterinærer anbefaler\n
+            - Sørg for at hunden alltid har tilgang til skygge og friskt vann.\n
+            - Pass på at hunden ikke inntar store mengder vann ved bading.\n
+            - Kjenn på asfalten med hendene, dersom du selv synes det er ubehagelig er det for varmt for hundens poter.\n
+            - Unngå eller begrens turer på asfalterte veier.\n
+            \n
+            - Hvis temperaturen stiger over kort tid, kan det være vanskelig for hunden din å tilpasse seg.\n
+            - Hunden din må ha tilgang på skygge og friskt vann. Gjerne ha en kjølematte tilgjengelig.\n
+            - Dere burde unngå krevende aktivitet. Man burde også være oppmerksom på store temperaturendringer.\n
+
+            Tegn å se etter:
+            - om hunden peser eller puster tungt og høylytt\n
+            - rastløshet eller irritabilitet\n
+            - økt puls\n
+            - oppkast og diarè\n
+
+            ### Konsekvenser\n
+            Hvis hunden ikke har nok skygge og friskt vann kan den i verste fall få heteslag.
+            Hvis dette skjer, burde du få hunden din til et kjølig sted, la dem ta små slurker med vann.
+            Du kan så prøve å kjøle ned hunden ved bruk av vann, men da er det viktig å ikke bruke iskaldt vann,
+            da dette vil kunne gjøre tilstanden verre. Ring så veterinæren din for å få hjelp.
+
+            Hvis vannet hunden bader i har cyanobakterier (også kalt blågrønnalger), kan hunden din
+            bli forgiftet hvis den drikker vannet. Vann som er stillestående har større risiko for
+            å ha slike bakterier. Det er en god ide å følge med på hvilke vann i området som er
+            testet for dette og vurdert som trygge av kommunen før du lar hunden bade.
+            Hvis hunden din drikker nok vann er det mindre sannsynlig at den drikker badevannet.
+
+        </item>
+
+        <item>
+
+            Hunden din kan tåle varmen dårligere grunnet flat snute, spesielt hvis det er sol.\n
+            Begrens krevende aktivitet og vær oppmerksom på tegn på heteslag.
+
+
+        </item>
+    </string-array>
+</resources>

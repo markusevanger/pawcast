@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HEATWAVE">
+        <item> Hetebølge </item>
+
+        <item>
+            ### Veterinærer anbefaler\n
+            - Prøv å begrense turer til tidlig morgen eller sen kveld.\n
+            - Hold hunden unna sol og inne i aircondition hvis mulig.\n
+            - Vær forsiktig med varme overflater som terrasser og asfalt.\n
+            - Gjerne ha en kjølematte tilgjengelig.\n
+            - Hunden må alltid ha tilgang på friskt vann.\n
+            - Pass på at hunden ikke inntar store mengder vann ved bading.\n
+            - Gjør gjerne alternative aktiviteter for mental stimulering inne.\n
+
+            ### Tegn å se etter:\n
+            - Pesing eller tungt og høylytt pust
+            - Rastløshet eller irritabilitet
+            - Økt puls
+            - Oppkast og diarè
+
+            ### Alternative aktiviteter\n
+            - Leke gjemsel inne
+            - Lær hunden din nye triks
+            - Bytt ut hvilke leker som står fremme
+            - Bruk interaktive leker som får hunden til å tenke
+            \n
+            Hvis temperaturen stiger over kort tid kan det være vanskelig for hunden din å tilpasse seg.\n
+
+        </item>
+
+        <item>
+            Prøv å begrense tur/aktivitet til tidlig morgen eller sen kveld.\n
+            Hunden må alltid ha tilgang til skygge og friskt vann.\n
+            Vær oppmerksom på tegn på heteslag.\n
+        </item>
+    </string-array>
+</resources>

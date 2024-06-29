@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="VIPER">
+        <item> Det er hoggormsesong</item>
+
+        <item>
+            Se opp for hoggorm når du går tur i skogsområder.\n
+
+            ### Hvis du ser eller mistenker bitt\n
+            - Hold hunden i ro, giften sprer seg med bevegelse.\n
+            - Ta med hunden til veterinær øyeblikkelig.\n
+
+            ### Symptomer på hoggormbitt\n
+            - Hevelse\n
+            - Tretthet\n
+            - Øm og hoven rundt bittområdet\n
+            - Oppkast og diaré\n
+            - Hjerteflimmer\n
+            - Dårlig blodsirkulasjon\n
+            - Sjokk\n
+
+
+        </item>
+
+        <item>
+            Se opp for hoggorm når du går tur med hunden din, spesielt i/rundt skog.
+            Dersom du ser eller mistenker at hunden din er bitt, hold den i ro og oppsøk
+            veterinær umiddelbart.
+        </item>
+    </string-array>
+</resources>

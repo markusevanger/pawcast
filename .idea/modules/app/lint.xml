@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="UnusedResources">
+        <ignore path="C:/Users/marku/Desktop/Studier/IN2000/team-19/app/src/main/res/drawable/heavyrainshowersandthunder_day.png" />
+        <ignore path="C:/Users/marku/Desktop/Studier/IN2000/team-19/app/src/main/res/drawable/heavyrainshowersandthunder_night.png" />
+        <ignore path="C:/Users/marku/Desktop/Studier/IN2000/team-19/app/src/main/res/drawable/heavyrainshowersandthunder_polartwilight.png" />
+        <ignore path="C:/Users/marku/Desktop/Studier/IN2000/team-19/app/src/main/res/drawable/heavysleetshowersandthunder_day.png" />
+        <ignore path="C:/Users/marku/Desktop/Studier/IN2000/team-19/app/src/main/res/drawable/heavysleetshowersandthunder_night.png" />
+        <ignore path="C:/Users/marku/Desktop/Studier/IN2000/team-19/app/src/main/res/drawable/heavysleetshowersandthunder_polartwilight.png" />
+        <ignore path="C:/Users/marku/Desktop/Studier/IN2000/team-19/app/src/main/res/drawable/heavysnowshowersandthunder_day.png" />
+        <ignore path="C:/Users/marku/Desktop/Studier/IN2000/team-19/app/src/main/res/drawable/heavysnowshowersandthunder_night.png" />
+        <ignore path="C:/Users/marku/Desktop/Studier/IN2000/team-19/app/src/main/res/drawable/heavysnowshowersandthunder_polartwilight.png" />
+    </issue>
+</lint>

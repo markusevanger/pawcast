@@ -1,0 +1,20 @@
+meta {
+  name: locationforecast-edr
+  type: http
+  seq: 1
+}
+
+get {
+  url: https://api.met.no/weatherapi/locationforecast/2.0/edr/collections/complete/position?coords=POINT(10+70)&z=123
+  body: none
+  auth: none
+}
+
+query {
+  coords: POINT(10+70)
+  z: 123
+}
+
+headers {
+  User-Agent: team-19
+}

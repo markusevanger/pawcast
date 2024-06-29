@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SALT">
+        <item> Veiene blir saltet </item>
+
+        <item>
+            ### Veterinærer anbefaler
+            - Bruk potesokker, vannavvisende vil gi best effekt.\n
+            - Unngå turer på saltede veier eller områder. Dette er typisk på hovedveier.\n
+            - Smøre poter med potesalve for å redusere sprekker.\n
+
+
+            ### Tegn å se etter\n
+            - Sår og sprekker\n
+            - Røde poter\n
+            - Overdreven vasking eller gnaging på poter\n
+            - Halting\n
+
+            ### Konsekvenser
+            Saltet vil tørke ut hundens poter, og kan føre til sår og sprekker.\n
+            Potene blir såre og røde, og hunden kan begynne å halte.\n
+            Det kan hjelpe å skylle potene i vann.
+
+        </item>
+
+        <item>
+            Veier blir gjerne saltet mellom -4 og 8 grader.\n
+            \n
+            Veterinærer anbefaler:\n
+            Bruk vannavvisende potesokker og unngå turer på saltede veier.
+        </item>
+    </string-array>
+</resources>

@@ -1,0 +1,66 @@
+package no.uio.ifi.in2000.team19.prosjekt.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+//Contains dynamic colors generated from Material Theme Builder: https://material-foundation.github.io/material-theme-builder/
+
+//Colors when device setting is Light Theme
+val primaryLight = Color(0xFF8D4A5A)
+val onPrimaryLight = Color(0xFFFFFFFF)
+val primaryContainerLight = Color(0xFFFFD9DF)
+val onPrimaryContainerLight = Color(0xFF3A0718)
+val secondaryLight = Color(0xFF75565C)
+val onSecondaryLight = Color(0xFFFFFFFF)
+val secondaryContainerLight = Color(0xFFFFD9DF)
+val onSecondaryContainerLight = Color(0xFF2B151A)
+val tertiaryLight = Color(0xFF7A5732)
+val onTertiaryLight = Color(0xFFFFFFFF)
+val tertiaryContainerLight = Color(0xFFFFDCBD)
+val onTertiaryContainerLight = Color(0xFF2C1600)
+val errorLight = Color(0xFFBA1A1A)
+val onErrorLight = Color(0xFFFFFFFF)
+val errorContainerLight = Color(0xFFFFDAD6)
+val onErrorContainerLight = Color(0xFF410002)
+val backgroundLight = Color(0xFFFFF8F7)
+val onBackgroundLight = Color(0xFF22191B)
+val surfaceLight = Color(0xFFFFF8F7)
+val onSurfaceLight = Color(0xFF22191B)
+val surfaceVariantLight = Color(0xFFF3DDE0)
+val onSurfaceVariantLight = Color(0xFF524346)
+val outlineLight = Color(0xFF847375)
+val inverseSurfaceLight = Color(0xFF382E30)
+val inverseOnSurfaceLight = Color(0xFFFEEDEE)
+val inversePrimaryLight = Color(0xFFFFB1C1)
+val surfaceContainerLight = Color(0xFFFBEAEC)
+
+
+//Colors when device setting is Dark Theme
+val primaryDark = Color(0xFFFFB1C1)
+val onPrimaryDark = Color(0xFF551D2D)
+val primaryContainerDark = Color(0xFF713343)
+val onPrimaryContainerDark = Color(0xFFFFD9DF)
+val secondaryDark = Color(0xFFE4BDC3)
+val onSecondaryDark = Color(0xFF43292F)
+val secondaryContainerDark = Color(0xFF5B3F45)
+val onSecondaryContainerDark = Color(0xFFFFD9DF)
+val tertiaryDark = Color(0xFFECBE91)
+val onTertiaryDark = Color(0xFF462A09)
+val tertiaryContainerDark = Color(0xFF60401D)
+val onTertiaryContainerDark = Color(0xFFFFDCBD)
+val errorDark = Color(0xFFFFB4AB)
+val onErrorDark = Color(0xFF690005)
+val errorContainerDark = Color(0xFF93000A)
+val onErrorContainerDark = Color(0xFFFFDAD6)
+val backgroundDark = Color(0xFF191113)
+val onBackgroundDark = Color(0xFFEFDEE0)
+val surfaceDark = Color(0xFF191113)
+val onSurfaceDark = Color(0xFFEFDEE0)
+val surfaceVariantDark = Color(0xFF524346)
+val onSurfaceVariantDark = Color(0xFFD6C2C4)
+val outlineDark = Color(0xFF9E8C8F)
+val inverseSurfaceDark = Color(0xFFEFDEE0)
+val inverseOnSurfaceDark = Color(0xFF382E30)
+val inversePrimaryDark = Color(0xFF8D4A5A)
+val surfaceContainerDark = Color(0xFF261D1F)
+
+

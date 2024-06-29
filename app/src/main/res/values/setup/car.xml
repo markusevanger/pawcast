@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CAR">
+        <item>Ikke sett hunden din i bilen</item>
+
+        <item>
+            utdypende info
+        </item>
+
+        <item>kort info</item>
+    </string-array>
+</resources>

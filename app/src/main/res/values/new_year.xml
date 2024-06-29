@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="NEWYEAR">
+        <item> Godt nyttår! </item>
+
+        <item>
+            ### Anbefalninger\n
+            Hold hunden inne.\n
+            Unngå turer sent på kvelden.\n
+            Gjør andre aktiviteter for mental stimulering inne.\n
+            Skru på tv-en eller musikk for å dempe lyden av rakettene.\n
+            Dekk til vinduer dersom hunden blir skremt av lysene.\n
+            Sørg for at hunden har mikrochip dersom den skulle bli redd og rømme.\n
+
+            Mange hunder er redde for raketter, og denne dagen kan være krevende som hundeeier. Vi håper du og din firbeindte får et godt nyttår uansett.
+
+        </item>
+
+        <item>
+            Gå en lengre tur tidlig på dagen, så det er mindre sannsynlig at hunden blir skremt av rakettene. Prøv å skjerme hunden så mye som mulig for lys og støy fra rakettene.
+        </item>
+    </string-array>
+</resources>

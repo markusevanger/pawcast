@@ -1,0 +1,147 @@
+<resources>
+
+
+    <!-- APP NAME -->
+    <string name="app_name">PawCast</string>
+
+
+    <!-- Titles -->
+    <string name="welcome_message_named">Heisann %1$s og %2$s!</string>
+    <string name="welcome_message_unnamed">Heisann!</string>
+    <string name="right_now">Akkurat nå</string>
+    <string name="location">Lokasjon</string>
+    <string name="graph_title">Beste tidspunkter for tur</string>
+    <string name="info_about_graph">Info om grafen</string>
+    <string name="settings">Instillinger</string>
+    <string name="what_is_your_name_and_dog_name_title">Hva er navnet ditt og navnet til hunden din?</string>
+    <string name="your_name">Navnet ditt</string>
+    <string name="your_dogs_name">Hunden din sitt navn</string>
+    <string name="your_dog_title">Hunden din</string>
+    <string name="recomendations_title">Anbefalinger</string>
+
+
+    <!-- Icon descriptions -->
+    <string name="GoBack_icon_description"> An arrow pointing left</string>
+    <string name="dog_normal_description">Søt hund med snakkeboble over seg</string>
+    <string name="icon_of_pet_description">Icon of pet</string>
+    <string name="icon_of_person_description">Icon of person</string>
+    <string name="done_icon_descirption">Et ikon som symboliserer ferdig</string>
+    <string name="next_icon_description">Ikon som peker mot høyre</string>
+    <string name="no_wifi_icon_description">No wifi icon</string>
+    <string name="close_icon_description">an X or Cross icon</string>
+    <string name="database_icon_description">an icon symbolizing data</string>
+    <string name="question_mark_icon_description">A question mark</string>
+    <string name="warning_icon_description">Varsels ikon</string>
+    <string name="klokke_ikon_description">Klokke ikon</string>
+    <string name="lightbulb_icon_description">Ikon av lysepære</string>
+
+
+    <!-- Body text -->
+    <string name="why_store_name_disclaimer">Navn blir kun brukt til å personalisere appen for deg.</string>
+    <string name="chooseDogCategoryBottomScreenTip"> Dette hjelper oss med å tilpasse anbefalinger til din hund. Du kan når som helst endre dette i instillinger.</string>
+    <string name="body_setup_screen_tip">Tynnere hunder kan fryse raskere, mens tykkere hunder kan tåle mer kulde. Dersom du er i tvil kan du velge middels.</string>
+
+
+    <!-- Detail text -->
+    <string name="x_axis_title">Klokkkeslett</string>
+    <string name="y_axis_title">Score</string>
+    <string name="last_updated">Sist oppdatert: %1$s</string>
+    <string name="made_with_data_from_met">Laget med data fra Metrologisk institutt</string>
+    <string name="search_box_label">Søk etter lokasjon</string>
+    <string name="location_disclaimer">Lokasjon blir lagret på enheten din og brukes kun til å hente værdata fra metrologisk institutt.</string>
+    <string name="setup_stage_count">%1$s / %2$s</string>
+    <string name="press_to_try_again">Trykk på knappen for å prøve igjen</string>
+
+
+    <!-- Buttons -->
+    <string name="read_more">Les mer</string>
+    <string name="next_hours_button">Neste %1$s timer</string>
+    <string name="hide">Skjul</string>
+    <string name="see_more_hours">Se flere timer</string>
+    <string name="see_hourly">Se timesvis</string>
+    <string name="next">Neste</string>
+    <string name="skip_this_step">Ikke bruk navn</string>
+    <string name="done">Fullfør</string>
+
+
+    <!-- Search Location things-->
+    <string name="changes_saved_label">✅ Endringer lagret</string>
+    <string name="search_loading_results">Laster inn resultater</string>
+    <string name="search_start_writing">🔍 \n Begynn å skrive for å se resultater</string>
+    <string name="search_error_msg">💀 \n En feil skjedde \n Har du internett tilgang?</string>
+
+
+    <!-- Weather -->
+    <string name="celcius">°</string>
+    <string name="wind_speed">%1$s m/s</string>
+    <string name="precipitation">%1$s mm</string>
+    <string name="low_degrees">L: %1$s</string>
+    <string name="high_degrees">H: %1$s</string>
+    <string name="timespan_between_hours">%1$s - %2$s</string>
+
+
+    <!-- Dog categories -->
+    <string name="age_screen_title">Hvor gammel er hunden din?</string>
+    <string name="puppy">Valp</string>
+    <string name="adult">Voksen</string>
+    <string name="senior">Senior</string>
+
+    <string name="body_setup_title">Hvilken beskriver hunden din best?</string>
+    <string name="skinnyBody">Tynn</string>
+    <string name="mediumBody">Middels</string>
+    <string name="fatBody">Tykk</string>
+
+    <string name="fur_setup_screen_title">Hva slags pels har hunden din?</string>
+    <string name="thinFur">Tynn</string>
+    <string name="thickFur">Tykk</string>
+    <string name="longFur">Lang</string>
+    <string name="shortFur">Kort</string>
+    <string name="lightFur">Lys</string>
+    <string name="darkFur">Mørk</string>
+
+    <string name="change_location_setup_screen_title">Hvor ønsker du værmeldinger for?</string>
+
+    <string name="nose_setup_screen_title">Hva slags snute har hunden din?</string>
+    <string name="normal_nose">Vanlig snute</string>
+    <string name="flat_nose">Flat snute</string>
+
+    <!-- Best trip time -->
+    <string name="morning_walk_time">Morgentur: %1$s:00</string>
+    <string name="morning_walk_is_not_recommended">Anbefaler ikke morgentur idag</string>
+    <string name="midday_walk_time">Dagstur: %1$s:00</string>
+    <string name="midday_walk_not_recommended">Anbefaler ikke dagstur idag</string>
+    <string name="evening_walk_time">Kveldstur: %1$s:00</string>
+    <string name="evening_walk_not_recommened">Anbefaler ikke kveldstur i dag.</string>
+    <string name="bad_weather_alert">I dag er det bittert vær. Vurder å aktivisere hunden din på andre måter og hold turer korte.</string>
+    <string name="no_internet_button_text">Ingen internett tilgang!)</string>
+    <string name="unknown_error_button_text">Det skjedde et uventet avbrudd.</string>
+    <string name="database_error_button_text">En feil oppstod i lesing av databasen</string>
+
+    <string name="loading_text">Laster…</string>
+    <string name="advice_info_title">Anbefalinger</string>
+    <string name="graph_info_title">Forklaring på Graf</string>
+    <string name="not_defined">Ikke definert</string>
+    <string name="first_time_greeting">Velkommen!</string>
+    <string name="app_description">Dette er en vær app for hundeeiere, som gir klima-relaterte anbefalinger basert på din hund.</string>
+    <string name="start_configuring_app">Før vi begynner trenger vi litt info om deg og hunden din for å personalisere appen til dere</string>
+    <string name="configutr_app_button_text">Konfigurer appen</string>
+    <string name="dog_paw_icon_description">Hundepote</string>
+    <string name="skip_config_button_text">Hopp over konfigurasjon</string>
+    <string name="skip_symbol_description">Symbol for hopp over</string>
+    <string name="skip_modal_title">Før du hopper over!</string>
+    <string name="skip_modal_body">Dersom du velger å ikke oppgi infomasjon om hunden din, velger vi å gi deg varsler for alle hunde typer for å gi best utbytte av appen. Likevel anbefaler vi deg sterkt til å konfigurere appen.</string>
+    <string name="skip_modal_skip_button">Bare konfigurer lokasjon</string>
+    <string name="configure_button_text">Konfigurer alt</string>
+    <string name="amount_of_fur_chosen">%1$s valgt</string>
+    <string name="no_name_defined">Ingen navn definert</string>
+    <string name="name_category_label">Navn</string>
+    <string name="age_category_label">Alder</string>
+    <string name="nose_category_label">Snute</string>
+    <string name="body_category_label">Kropp</string>
+    <string name="fur_category_label">Pels</string>
+    <string name="dog_avatar_description">Dog drawing responding to current weather</string>
+    <string name="search_icon_description">Forstørrelses-glass</string>
+    <string name="weather_symbol_description">Værsymbol</string>
+    <string name="fur_screen_tip_box">Du kan velge flere her! </string>
+
+</resources>
