@@ -12,13 +12,10 @@
 + Last ned og installer Android Studio, [se guide her](https://developer.android.com/studio/install)
 + Last ned prosjektmappen via github eller last ned fra innleveringsmappen.
 + Åpne prosjektet i Android Studio [Guide](https://developer.android.com/studio/projects/create-project#ImportAProject).
++ Naviger til `ApiTokens.kt` og følg instruksene for å fylle inn din egen Mapbox token. Husk å også oppdatere den hemmelige mapbox access tokenen i `gradle.properties`  
 + Opprett en emulator eller koble til en Android mobil og kjør appen. [Guide](https://developer.android.com/studio/run/emulator#get-started). 
+
 > Dersom det skjer en feil venligst kjør gradle sync og trykk `build > clean project`
-
-> Noen ganger ved build dukker et opp build performance issues, disse har ingen innvirkning på kjøring av app.
-
-
-
 
 
 
