@@ -53,7 +53,7 @@ class SearchLocationViewModel @Inject constructor(
     )
     val uiState: StateFlow<SearchLocationUiState> = _uiState.asStateFlow()
 
-    private val placeAutocomplete = PlaceAutocomplete.create(ApiKeys.MAPBOX_ACCESS_TOKEN)
+    private val placeAutocomplete = PlaceAutocomplete.create(ApiKeys.MAPBOX_PUBLIC_ACCESS_TOKEN)
 
     // Set Text in TextField to match stored value
     init {

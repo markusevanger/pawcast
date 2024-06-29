@@ -15,10 +15,20 @@ import javax.inject.Singleton
 @Singleton
 class LocationForecastDataSource @Inject constructor() {
 
+
+
+
     private val client = HttpClient {
         defaultRequest {
-            url("https://gw-uio.intark.uh-it.no/in2000/")
-            headers.appendIfNameAbsent("X-Gravitee-API-key", ApiKeys.PROXY_KEY)
+
+            if (ApiKeys.USE_PROXY){
+                url("https://gw-uio.intark.uh-it.no/in2000/")
+                headers.appendIfNameAbsent("X-Gravitee-API-key", ApiKeys.PROXY_KEY)
+            } else {
+                url("https://api.met.no/")
+            }
+
+
         }
         install(ContentNegotiation) {
             gson()

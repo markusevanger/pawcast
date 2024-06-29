@@ -1,20 +1,14 @@
 package no.uio.ifi.in2000.team19.prosjekt.data
 
 
-/**
- * THIS IS NOT BEST PRACTICE AND IS A HUGE SECURITY RISK IF CODE IS MADE PUBLIC.
- *
- * But, we do this to make setup easier when sharing between team members and examiners. In a real scenario we would
- * find a better solution like storing them on a server so we are able to change them without hard updating the app.
- *
- * Again this is not what we would do outside of this project, but is done to avoid friction in handing over API keys.
- */
+/** Pleace fill inn your own keys here */
+
+
 object ApiKeys {
-    /** Please see ApiKeys for explanation */
-    const val PROXY_KEY = "bfccf7dd-446a-4d37-9cf8-76e504f397b4"
+    const val USE_PROXY = false // only use if you have access to the IFI proxy.
+    const val PROXY_KEY = "" // ifi proxy here
 
-    /** Please see ApiKeys for explanation */
-    const val MAPBOX_ACCESS_TOKEN =
-        "pk.eyJ1IjoibWFya3VzZXYiLCJhIjoiY2x0ZWFydGZnMGQyeTJpcnQ2ZXd6ZWdjciJ9.09_6aHo-sftYJs6mTXhOyA"
-
+    // get here: https://docs.mapbox.com/android/search/guides/get-started/
+    const val MAPBOX_PUBLIC_ACCESS_TOKEN = "replace this"
+    // Navigate to gradle.properties to put in your secret access token.
 }
