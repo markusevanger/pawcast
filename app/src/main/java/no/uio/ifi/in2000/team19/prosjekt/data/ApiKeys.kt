@@ -8,7 +8,7 @@ object ApiKeys {
     const val USE_PROXY = false // only use if you have access to the IFI proxy.
     const val PROXY_KEY = "" // ifi proxy here
 
-    // get here: https://docs.mapbox.com/android/search/guides/get-started/
+    // 📦 get your token here: https://docs.mapbox.com/android/search/guides/get-started/#configure-credentials
     const val MAPBOX_PUBLIC_ACCESS_TOKEN = "replace this"
     // Navigate to gradle.properties to put in your secret access token.
 }
